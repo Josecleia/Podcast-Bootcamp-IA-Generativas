@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/CAPA_CaminhoTech.png"
+    src="./assets/CAPA_CaminhoTech.jpg"
     width="300"
 />
 </p>
